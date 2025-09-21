@@ -14,7 +14,7 @@ type Task struct {
 	Completed   bool `json:"completed"`
 }
 
-var taskFile = "tasks.json"
+var taskFile = "../tasks.json"
 
 func main() {
 	if len(os.Args) < 2 {
