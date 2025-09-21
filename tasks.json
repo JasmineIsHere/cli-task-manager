@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "throw rubbish",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "description": "brush teeth",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "description": "wash towels",
+    "completed": false
+  }
+]
